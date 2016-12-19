@@ -5,7 +5,8 @@
   "author": "Cory House",
   "license": "MIT",
   "scripts":{
-    "start":"npm-run-all --parallel lint:watch",
+    "start":"npm-run-all --parallel lint build",
+    "build":"webpack --config webpack.config.babel.js",
     "lint":"node_modules/.bin/esw webpack.config.* src",
     "lint:watch":"npm run lint -- --watch"
   },
