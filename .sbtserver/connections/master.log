@@ -1,8 +1,0 @@
-New log file opened at Wed Dec 14 23:24:50 PST 2016 by 75119@U6033906-TPM-A
-Taking next connection to: 49985
-Checking to see if clients are empty...
-No non-daemon clients connected after 3 min. Shutting down.
-Server socket thread exiting.
-0 clients open, will close them...
-All client sockets have been closed.
-Closing the 75119@U6033906-TPM-A logs at Wed Dec 14 23:27:50 PST 2016, goodbye.
